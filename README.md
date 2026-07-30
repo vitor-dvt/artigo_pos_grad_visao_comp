@@ -1,1 +1,1 @@
-# artigo_pos_grad_visao_comp
+Este repositório contém os códigos em Python, no formato .ipynb, desenvolvidos para os experimentos do artigo, além da base de dados com 64 rótulos das imagens de células da base de dados LISC_DATA e suas respectivas contagens manuais de células, utilizada na avaliação dos métodos de contagem automática.
